@@ -74,6 +74,4 @@ MIT licence (Copyright 2010–2021 Three.js Authors).
 Almost everything content-related — the colour palette, axis phrase
 banks, tier verdict wording, sourced examples, and demo journeys — lives
 in a single `CONFIG` object near the top of the vendored scripts inside
-`index.html`. Future companion tools in the same DBA pipeline (e.g. the
-four-domain nexus, the accountability gradient) should be new configs
-against the same engine, not a rewrite.
+`index.html`.
